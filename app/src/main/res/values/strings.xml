@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">webDev_recyclerView</string>
+    <string-array name="social_media_apps">
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Messenger</item>
+        <item>Skype</item>
+        <item>Snapchat</item>
+        <item>Twitter</item>
+        <item>Whatsapp</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>App Description</item>
+        <item>App Description</item>
+        <item>App Description</item>
+        <item>App Description</item>
+        <item>App Description</item>
+        <item>App Description</item>
+        <item>App Description</item>
+    </string-array>
+
+</resources>
